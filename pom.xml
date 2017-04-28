@@ -57,7 +57,7 @@
       <artifactId>vertx-web</artifactId>
     </dependency>
 
-    <!-- Testing -->
+    <!-- Testing 12 -->
     <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-web-client</artifactId>
